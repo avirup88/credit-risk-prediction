@@ -125,6 +125,3 @@ Feel free to **fork** this repo, create a **pull request**, or report issues.
 This project is licensed under the **MIT License**.
 
 ---
-
-🚀 **Start predicting credit risk today!**  
-📧 For queries, contact: `your.email@example.com`
